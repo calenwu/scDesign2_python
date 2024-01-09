@@ -1,0 +1,15 @@
+# The purpose of this file is to store *all* the dependencies
+# setup.cfg
+anndata
+numpy<=1.21
+pandas    
+scanpy>=1.9.1
+# requirements-dev.txt
+black
+flake8
+pre-commit
+pydata-sphinx-theme
+pytest
+pytest-cov
+pytest-xdist
+pytype
